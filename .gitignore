@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+data/*
+!data/.gitkeep
+checkpoints/*
+!checkpoints/.gitkeep
+outputs/*
+!outputs/.gitkeep
+*.pth
+*.pt
+*.npy
+*.npz
+*.log
+events.out.tfevents.*
